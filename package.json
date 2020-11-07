@@ -131,7 +131,7 @@
 		"clipboard": "2.0.6",
 		"core-js-url-browser": "3.6.4",
 		"element-closest": "^2.0.2",
-		"formdata-polyfill": "3.0.13",
+		"formdata-polyfill": "3.0.20",
 		"hoverintent": "2.2.1",
 		"imagesloaded": "4.1.4",
 		"jquery-color": "https://github.com/jquery/jquery-color/archive/2.1.2.tar.gz",
